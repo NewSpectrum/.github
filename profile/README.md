@@ -1,3 +1,14 @@
 # New Spectrum
 
-### Profile Under Construction
+```yaml
+Basic Info:
+	Company:
+		Status:
+			- Startup
+	GitHub Profile:
+		- Under Construction
+	
+```
+
+## :exclamation: Profile Under Construction :exclamation:
+
