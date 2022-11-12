@@ -1,6 +1,4 @@
-:exclamation: 
+:exclamation: Hi, please be aware that :exclamation:
 
-Hi
-
-# We are Currently *VERY* <br /> :warning: Under Construction :warning:
+# :warning: *Everything* is :warning: <br /> `Under Construction`
 
