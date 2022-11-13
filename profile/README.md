@@ -1,6 +1,12 @@
-:exclamation: Hi, please be aware that :exclamation:
+:warning: Hi, please be aware that
 
-# :warning: *Everything* is :warning: <br /> `Under Construction`
+## Everything is Still Under...
+
+```bash
+$ cd /FancyOrgs && . ./Build-NewSpectrum.sh
+
+Construction: [===                      ] 7%
+```
 
 But don't worry, our best guy is on it.
 
