@@ -27,4 +27,33 @@ So, for the sake of our potential users (not to mention *our* own sanity), it is
 
 # Links & Citations
 
-It's *very* important that __we provide links to any and all internal *or* external resources__. *Especially* internal resources. Look at how __[Wikipedia](https://wikipedia.org/)__ does it. The only difference is we likely won't be adding the small __Numeric Footnote Citations[^[Citation](https://www.markdownguide.org/extended-syntax/#footnotes)]__ that link to the bibliography[^2]:test at the bottom.
+It's *very* important that __we provide links to any and all internal *or* external resources__. *Especially* internal resources. Look at how __[Wikipedia](https://wikipedia.org/)__ does it. The only difference is we likely won't be adding the small __[Numeric Footnote Citations](https://www.markdownguide.org/extended-syntax/#footnotes)__ that *would* link to the __[Bibliography]__ at the bottom. I would *like* to include them, and maybe I'll jury-rig them into Wikis later on, but the default syntax isn't supported by __[GitHub Flavored Markdown (GFM)](https://github.github.com/gfm)__.
+
+## Adding Links
+
+When you add links, whether it's to an __[Internal Resource]__ or an __[External Resource]__, the first thing you do is __*Put the*__ `Link Title` __*in* [Bold Brackets]__.
+
+It doesn't matter if you have the necessary URL right away- __I don't even care if you publish without adding a URL at first__. But if you do, *add an issue to make sure they get completed by you or someone else*. So long as they're marked __[Like This]__, it's an easy task.
+
+__Hunting down URLs before you continue is a great way to halt your progress and kill your motivation.__
+
+Now, this is how you add your references...
+
+### External Resources
+
+Now, if you don't know how to create an __[Embedded URL/URI Link]__ in Markdown, this is the syntax:
+
+```markdown
+[Displayed Text](https://github.com)
+```
+
+However, *our* links/references will be bolded, like so:
+
+```markdown
+__[Displayed Text](https://github.com)__
+```
+
+### Internal Resources
+
+Fortunately all __[Internal Resources]__ will have a very uniform __[URL Scheme]__.
+
