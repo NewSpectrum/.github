@@ -41,17 +41,29 @@ Now, this is how you add your references...
 
 ### External Resources
 
-Now, if you don't know how to create an __[Embedded URL/URI Link]__ in Markdown, this is the syntax:
+Now, if you don't know how to create an __[Embedded URL/URI Link]__ in Markdown, this is how you do it:
 
+#### Syntax
 ```markdown
-[Displayed Text](https://github.com)
+# Syntax
+[Displayed Text](https://url.com)
+
+# Sample
+[GitHub](https://github.com)
 ```
 
-However, *our* links/references will be bolded, like so:
+#### Output
+> [GitHub](https://github.com)
 
+However, *our* links/references will be __Bolded__, like so:
+
+#### Syntax
 ```markdown
-__[Displayed Text](https://github.com)__
+__[New Spectrum](https://github.com/NewSpectrum)__
 ```
+
+#### Output
+> [GitHub](https://github.com/NewSpectrum)
 
 ### Internal Resources
 
