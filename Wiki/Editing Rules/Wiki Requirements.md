@@ -64,7 +64,7 @@ __[New Spectrum](https://github.com/NewSpectrum)__
 ```
 
 #### Output
-> [GitHub](https://github.com/NewSpectrum)
+> __[New Spectrum](https://github.com/NewSpectrum)__
 
 ### Internal Resources
 
