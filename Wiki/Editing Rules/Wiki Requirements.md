@@ -12,7 +12,7 @@ So, for the sake of our potential users (not to mention *our* own sanity), it is
 - __Core Document/File Layouts__
 - __Basic Formatting Rules__
 	- Do __*not*__ use __[Prettier]__
-                - *Unless specifically instructed to*
+		- *Unless specifically instructed to*
 	- Do __*not*__ use a *Format on Save* feature
 		- I am planning on building an auto-formatting extension for Visual Studio Code that can be used in place of __[Prettier]__ or the default formatter.
 		- Eventually I plan on extending this to the following applications (in this order):
