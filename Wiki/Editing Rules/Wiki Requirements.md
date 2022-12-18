@@ -4,7 +4,7 @@ First, to anyone choosing to contribute to __New Spectrum__ in any way, I would 
 
 That said, as __New Spectrum__ is an Organization, professionalism is important. Humor is welcome, as you've probably noticed, but ultimately we aim to produce __high quality code & documentation with *uniform* construction and formatting__.
 
-The key word there is __*Uniform*__, because (as you're probably aware) there are dozens- if not *hundreds* of ways to accomplish the same goal. More to the point, there are *hundreds* of ways to __organize the same exact code__ being used to execute that code.
+The key word there is __*Uniform*__, because (as you're probably aware) there are dozens- if not *hundreds* of ways to accomplish the same goal. More to the point, there are *hundreds* of ways to __organize the same exact code__ being used to execute a task.
 
 So, for the sake of our potential users (not to mention *our* own sanity), it is *crucial* that we all maintain the following...
 
