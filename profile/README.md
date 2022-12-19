@@ -5,7 +5,7 @@
 ```bash
 $ cd /FancyOrgs && . ./Build-NewSpectrum.sh
 
-Construction: [===                      ] 7%
+Construction: [=======                  ] 21%
 ```
 
 But don't worry, our best guy is on it.
