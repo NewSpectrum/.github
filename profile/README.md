@@ -1,4 +1,4 @@
-[![Discord](https://img.shields.io/badge/Discord-Join%20the%20Chat-blue)](https://discord.gg/MyxXmUnUfj) 
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20Chat-blue?style=flat&logo=discord&logoColor=white)](https://discord.gg/MyxXmUnUfj) 
 
 :warning: Hi, please be aware that
 
