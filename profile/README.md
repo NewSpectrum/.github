@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/badge/Discord-Join%20the%20Chat-blue)](https://discord.gg/MyxXmUnUfj) 
+
 :warning: Hi, please be aware that
 
 ## Everything is Still Under...
