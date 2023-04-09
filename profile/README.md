@@ -10,3 +10,8 @@ As of now, and until further notice, everything within the [New Spectrum.dev](ht
 
 # New Spectrum.dev
 
+Welcome! This is the official GitHub Organization Profile for __New Spectrum.dev__.
+
+__New Spectrum.dev__ is, at present, [hosted entirely by GitHub](#github-hosting). That means all [Projects]({{ vars.GITHUB_ORG_URL }}//projects)
+
+
